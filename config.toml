@@ -1,0 +1,4 @@
+baseURL = "https://animedragoncuturitly.vercel.app"
+languageCode = "en-us"
+title = "Anime Dragon Wallpaper"
+theme = "hugo-theme-minos"
